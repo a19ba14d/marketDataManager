@@ -67,6 +67,7 @@ async function demonstrateMarketDataManagerUsage() {
     // 您可以随时调用这些方法来获取最新的数据
 
 
+<<<<<<< HEAD
     // 币币订阅地址：wss://stream.cexyes.com
     // 合约订阅地址：wss://future.cexyes.com
 
@@ -79,6 +80,8 @@ async function demonstrateMarketDataManagerUsage() {
 
 
 
+=======
+>>>>>>> 1862007 (first commit)
 
     /**
      * 1.本程序使用 需要运行两份 一份是现货 另一份是合约
@@ -89,6 +92,11 @@ async function demonstrateMarketDataManagerUsage() {
      * 
      */
 
+<<<<<<< HEAD
+=======
+    // 登录之后 应该初始化获取收藏交易对数据  合约和现货是分开的  现货传递参数type=SPOTS  合约传递参数 type=FUTURES
+    // https://www.postman.com/kol111/workspace/testcex/request/4922941-097f1fdd-f105-448b-b9c0-f2b456634175?action=share&source=copy-link&creator=4922941&active-environment=058b3cd3-fcbb-4aec-983b-d93fb4f1ff5d
+>>>>>>> 1862007 (first commit)
 
 
 }
